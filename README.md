@@ -1,2 +1,2 @@
 # panierPHP
-simple système de panier en php
+simple basket system in php
